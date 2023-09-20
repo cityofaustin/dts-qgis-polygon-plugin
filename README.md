@@ -1,5 +1,7 @@
 # dts-qgis-polygonizer
 
+This repo has been archived and may be deleted in the future. Please refer to the upstream origin of the fork for the final state of this work. This repo was intended to track enhancements to this plugin, however, the need for it has been superceeded by an alternative solution.
+
 ## Status
 
 0.1 Experimental Release
